@@ -1,0 +1,25 @@
+STL translation to Solid Edge
+Date: Saturday,August 28,2021 10:11PM
+Source File:C:\Users\John\Desktop\3D Prints\Notebook Pen Holder\PEN_CATCH.stl
+Author: Unknown
+Organization: Unknown
+Source System: DEX
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz
+Operating System: Windows 10
+Installed Memory: 7.75 GB
+
+Software Information:
+Parasolid Version: 32.1.222
+PSBodyshop Version: 32.1.94
+Solid Edge Version: 221.00.00.114 x64
+
+STL Import Options
+Heal Mesh Faults:Off
+Make Base Feature:On
+Enable Logging:On
+
+Translation progress:
+Translation process completed
+Time required to translate:00 : 00 : 07

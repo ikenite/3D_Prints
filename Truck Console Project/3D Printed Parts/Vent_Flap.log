@@ -1,0 +1,37 @@
+Solid Edge Translation To 3MF
+Date: Monday,August 09,2021 10:53PM
+Output File: C:\Users\John\Desktop\3D Prints\Truck Console Project\3D Printed Parts\Vent_Flap.3mf
+Author: Unknown
+Organization: Unknown
+Source System: SOLID EDGE
+
+Hardware:
+Processor: Intel(R) Core(TM) i7-4700MQ CPU @ 2.40GHz
+Operating System: Windows 10
+Installed Memory: 7.75 GB
+
+Software Information:
+Parasolid Version: 32.1.222
+PSBodyshop Version: 32.1.94
+3MF Adapter Version:5.0.48
+Solid Edge Version: 221.00.00.114 x64
+
+3MF Export Options
+Export Construction Solids:Off
+Export Displayed Parts:Off
+Enable Logging:On
+AllowInvalid3mfObjects:Off
+Export Flatten Assembly:On
+Export Units:Millimeters
+Export Tolerance Value:0.001000
+Export Tolerance Type:Custom
+Export Surface Plane Angle Value:0.017453
+Export Author:Unknown
+Export Description:Unknown
+Export Organization:Unknown
+Export Program Name:Unknown
+
+Translation progress:
+Phase 1 of 1 Translating Parasolid to foreign data types...
+Translation process completed
+Time required to translate:00 : 00 : 06
